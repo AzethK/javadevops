@@ -12,7 +12,7 @@ public class TesteFibo {
     @Test
     public void Teste2() {
         Fibonacci f = new Fibonacci();
-        assertEquals(2L, f.fibo(4));
+        assertEquals(2L, f.fibo(3));
     }
     @Test
     public void Teste3() {
